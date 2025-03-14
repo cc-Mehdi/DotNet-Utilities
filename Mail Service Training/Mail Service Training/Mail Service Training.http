@@ -1,0 +1,6 @@
+@Mail_Service_Training_HostAddress = http://localhost:5188
+
+GET {{Mail_Service_Training_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
